@@ -1,0 +1,34 @@
+<html>
+<head>
+	<title>Table</title>
+</head>
+<body>
+<div align="center">
+<h3>KIET GROUP OF INSTITUTIONS, DELHI-NCR, GHAZIABAD (029)</h3><br>
+<b>Depratment of Computer Science and Engineering</b><br>
+<b><u>CLASS TIME TABLE FOR ODD SEM 2025-26</b></u><br><br>
+<table border ="1">
+	<tr><th rowspan=2>Time<br>Day</th><th>I Period</th><th>II Period</th><th>III Period</th><th>IV Period</th><th>V Period</th><th>LUNCH</th><th>VI Period</th><th>VII Period</th><th>VIII Period</th></tr>
+	<tr><td>9:10-10:00</td><td>10:00-10:50</td><td>10:50-11:40</td><td>11:40-12:30</td><td>12:30-1:20</td><td>1:20-2:20</td><td>2:20-310</td><td>3:10-4:00</td><td>4:00-4:50</td></tr>
+	
+	<tr><td>Mon</td><td align="center" bgcolor=pink>Cold(PSH)-C</td><td align="center"colspan=2 bgcolor=#B3BFFF>Foreign Languages</td><td align="center"colspan=2 bgcolor=#799EFF>CSE IC<br>WD LAB(PT/PK/VD)E 506</td>
+	<td align="center" bgcolor=powderblue>L</td><td></td><td></td><td></td></tr>
+	
+	<tr><td>Tue</td><td align="center"bgcolor=#C2E2FA>CFE(KSA)-C</td><td align="center"colspan=2 bgcolor=#B3BFFF>Foreign Language</td><td align="center"colspan=2 bgcolor=#CBF3BB>PPS Lab(CLASSROOM)-C<br>NG/OPK/AS</td>
+	<td align="center" bgcolor=powderblue>U</td><td align="center" bgcolor=pink>COLD(PSH)-C</td><td></td><td></td></tr>
+	
+	<tr><td>Wed</td><td align="center"colspan=2 bgcolor=yellow>D&R LAB<br>AY/RY/VBJ(C-108)</td><td align="center"bgcolor=#636CCB>DT(AP)</td><td align="center"bgcolor=#C2E2FA>CFE(KSA)-C</td>
+	<td align="center"bgcolor=#F8E8EE>EC(SS)-C</td><td align="center"bgcolor=powderblue>N</td><td align="center" bgcolor=#FFC785 >PPS(NG)-C</td><td align="center" colspan=2 bgcolor=#FFE797>Indian Knowledge System(NSH)</td></tr>
+	
+	<tr><td>Thu</td><td align="center"bgcolor=#C2E2FA>CFE(KSA)-C</td><td align="center" bgcolor=pink>COLD(PSH)-C</td><td align="center"bgcolor=yellow>D&R(AY)-C</td>
+	<td align="center" colspan=2 bgcolor=#CBF3BB>PPS LAB-C<br>E-513 NG/OPK/AS</td><td align="center"bgcolor=powderblue>C</td><td align="center" bgcolor=#FFC785>PPS(NG)-C</td><td align="center" bgcolor=#CBCBCB>Mentoring-C</td><td></td></tr>
+	
+	<tr><td>Fri</td><td align="center"bgcolor=#C2E2FA>CFE(KSA)-C</td><td align="center" bgcolor=#FFC785>PPS(NG)-C</td><td align="center"bgcolor=yellow>D&R(AY)-C</td><td align="center" bgcolor=#F8E8EE>EC(SS)-C</td>
+	<td align="center"bgcolor=#C2E2FA>CFE(KSA)-C</td><td align="center"bgcolor=powderblue>H</td><td align="center" bgcolor=pink>COLD(PSH)-C</td><td align="center" colspan=2 bgcolor=orange>COLD LAB<br>C1:PSH/PSA(B-203)<br>C2:MSH/RKI(B-204)</td></tr>
+	
+</table>
+</div>
+</body>
+</html>
+
+
